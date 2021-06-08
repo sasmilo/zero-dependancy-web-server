@@ -1,0 +1,8 @@
+{
+  "name": "zero-dependancy-web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sasmilo/zero-dependancy-web-server.git",
+  "author": "Sasa Milosevic <sasmilo20@gmail.com>",
+  "license": "MIT"
+}
